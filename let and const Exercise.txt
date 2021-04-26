@@ -1,3 +1,7 @@
+const PI = 3.14;
+PI = 42; 
+
+
 What is the difference between var and let?
 Var allows for reassignment and redeclaration. But you cannot redeclare with let. 
 
